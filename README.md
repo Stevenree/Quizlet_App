@@ -1,2 +1,2 @@
-# Quizlet_App
-ECE-474 Final project
+# ECE464-Databases-Final-Quizlet
+Database final (Quizlet) for ECE464 at the Cooper Union
